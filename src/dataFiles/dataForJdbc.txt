@@ -1,0 +1,31 @@
+Oracle Database, 127.0.0.1, 1113, database_a
+MySQL, 127.0.0.2, 1112, database_b
+Microsoft SQL Server, 127.0.0.3, 1111, database_c
+PostgreSQL, 127.0.1.1, 0004, database_d
+SQLite, 192.178.1.1, 0003, database_e
+IBM Db2, 192.178.1.2, 0002, database_f
+MariaDB, 192.178.1.3, 0001, database_g
+Amazon Aurora, 133.010.1.0, 1235, database_h
+MongoDB, 133.010.1.0, 1234, database_db
+Cassandra, 127.0.0.1, 1212, customer_db_a
+Redis, 127.0.0.1, 2222, customer_db_b
+Couchbase, 127.0.0.1, 1111, customer_db_c
+Amazon DynamoDB, 192.168.0.50, 9098, customer_db_d
+Neo4j, 192.168.0.50, 9445, dept_db_1
+Firebase Realtime Database, 192.168.1.5, 5001, dept_db_2
+HBase, 192.168.1.5, 3003, dept_db_3
+Elasticsearch, 192.168.1.5, 3006, dept_db_4
+Amazon Neptune, 192.178.1.8, 4004, database_system_v1
+ArangoDB, 192.178.1.8, 4003, database_system_v2
+OrientDB, 192.178.1.8, 4002, database_system_v3
+SAP HANA, 192.178.1.8, 4001, database_system_v4
+Memcached, 122.118.0.6, 4000, database_system_v5
+Amazon RDS, 122.118.0.6, 9099, users_db_x
+Google Cloud SQL, 122.118.0.6, 9091, users_db_y
+Microsoft Azure SQL Database, 222.111.0.7, 9090, users_db_z
+IBM Db2 on Cloud, 444.124.1.9, 8082, users_db_q
+db4o, 181.211.1.1, 8081, users_db_w
+Firebird, 211.111.1.1, 8080, products_db_tv
+Informix, 133.010.1.0, 3308, products_db_laptop
+InterBase, 133.010.1.0, 3307, products_db_tv
+Ingres, 133.010.1.0, 3306, products_db_tv

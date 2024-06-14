@@ -2,10 +2,10 @@ package arrays.find;
 
 import java.util.UUID;
 
-import arrays.models.Melon;
-import arrays.models.MelonData;
-import arrays.models.Person;
-import arrays.models.PersonData;
+import models.Melon;
+import models.MelonData;
+import models.Person;
+import models.PersonData;
 
 public class MainFind {
 	public static Melon[] allMelons = MelonData.dataForMelons();

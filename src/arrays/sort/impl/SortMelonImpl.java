@@ -3,9 +3,9 @@ package arrays.sort.impl;
 import java.util.Arrays;
 import java.util.Comparator;
 
-import arrays.models.CpmMelons;
-import arrays.models.Melon;
-import arrays.models.MelonData;
+import models.CpmMelons;
+import models.Melon;
+import models.MelonData;
 
 public class SortMelonImpl {
 	public static Melon[] melons = MelonData.dataForMelons();

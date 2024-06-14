@@ -2,9 +2,9 @@ package arrays.maths;
 
 import java.util.Arrays;
 
-import arrays.models.CpmMelons;
-import arrays.models.Melon;
-import arrays.models.MelonData;
+import models.CpmMelons;
+import models.Melon;
+import models.MelonData;
 
 public class MaxMinAvgMain {
 	

@@ -3,8 +3,8 @@ package arrays.compare2Arr;
 import java.util.Arrays;
 import java.util.Comparator;
 
-import arrays.models.Person;
-import arrays.models.PersonData;
+import models.Person;
+import models.PersonData;
 
 public class CompareMain {
 	public static Person[] people = PersonData.dataForPeople();
