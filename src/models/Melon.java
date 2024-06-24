@@ -8,7 +8,7 @@ public class Melon {
 	
 	public Melon() {
 	}
-
+	
 	public Melon(String type, int weight) {
 		this.type = type;
 		this.weight = weight;
